@@ -91,6 +91,7 @@
 .modal--links {
     display: flex;
 }
+
 .modal--link {
     text-decoration: none;
     transition: color .2s;
