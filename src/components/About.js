@@ -23,7 +23,7 @@ const About = () => {
                     <a href="https://github.com/djr5851?tab=repositories">Github</a>
                 </div>
                 <div className="about--content">
-                    <button onClick={() => window.open('/Daniel Robinson Resume.pdf', '_blank')}>Open Resume</button>
+                    <button onClick={() => window.open('Daniel-Robinson-Resume.pdf', '_blank')}>Open Resume</button>
                 </div>
             </div>
 
